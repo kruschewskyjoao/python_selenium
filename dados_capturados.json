@@ -1,0 +1,92 @@
+[
+    {
+        "foto": "https://avatars.githubusercontent.com/u/89575678",
+        "nome": "Rafael Xavier",
+        "profissao": "Administrador",
+        "email": "rafael.xavier@example.org",
+        "telefone": "(21) 0082-5585",
+        "perfil": "rafael_xavier",
+        "estado": "Acre"
+    },
+    {
+        "foto": "https://avatars.githubusercontent.com/u/30266823",
+        "nome": "Rafael Barros",
+        "profissao": "Estrategista",
+        "email": "rafael.barros48@example.com",
+        "telefone": "+55 (50) 1075-1983",
+        "perfil": "rafael_barros23",
+        "estado": "Piauí"
+    },
+    {
+        "foto": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/113.jpg",
+        "nome": "Rafael Moreira",
+        "profissao": "Executivo",
+        "email": "rafael_moreira6@example.org",
+        "telefone": "(42) 78000-4882",
+        "perfil": "rafael.moreira51",
+        "estado": "Espírito Santo"
+    },
+    {
+        "foto": "https://avatars.githubusercontent.com/u/46930596",
+        "nome": "Rafael Oliveira",
+        "profissao": "Executivo",
+        "email": "rafael.oliveira84@example.org",
+        "telefone": "(19) 6956-4263",
+        "perfil": "rafael.oliveira91",
+        "estado": "Santa Catarina"
+    },
+    {
+        "foto": "https://avatars.githubusercontent.com/u/43952067",
+        "nome": "Rafael Batista",
+        "profissao": "Desenvolvedor",
+        "email": "rafael_batista69@example.net",
+        "telefone": "(99) 7109-0752",
+        "perfil": "rafael.batista",
+        "estado": "Pará"
+    },
+    {
+        "foto": "https://avatars.githubusercontent.com/u/2640413",
+        "nome": "Rafael Martins Neto",
+        "profissao": "Especialista",
+        "email": "rafael.martins@example.org",
+        "telefone": "(05) 62755-7885",
+        "perfil": "rafael.martins",
+        "estado": "Minas Gerais"
+    },
+    {
+        "foto": "https://avatars.githubusercontent.com/u/69360873",
+        "nome": "Rafael Costa",
+        "profissao": "Orquestrador",
+        "email": "rafael.costa8@example.com",
+        "telefone": "(96) 34876-6113",
+        "perfil": "rafael_costa",
+        "estado": "São Paulo"
+    },
+    {
+        "foto": "https://avatars.githubusercontent.com/u/10066291",
+        "nome": "Rafael Reis",
+        "profissao": "Policial",
+        "email": "rafael.reis@example.org",
+        "telefone": "(22) 48095-8154",
+        "perfil": "rafael.reis",
+        "estado": "Santa Catarina"
+    },
+    {
+        "foto": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/704.jpg",
+        "nome": "Rafael Nogueira",
+        "profissao": "Associado",
+        "email": "rafael_nogueira@example.net",
+        "telefone": "(81) 73357-2586",
+        "perfil": "rafael.nogueira",
+        "estado": "Paraíba"
+    },
+    {
+        "foto": "https://avatars.githubusercontent.com/u/66171666",
+        "nome": "Rafael Batista Neto",
+        "profissao": "Facilitador",
+        "email": "rafael_batista@example.org",
+        "telefone": "(74) 8834-4310",
+        "perfil": "rafael_batista",
+        "estado": "Maranhão"
+    }
+]
